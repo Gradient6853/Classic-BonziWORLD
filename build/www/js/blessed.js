@@ -1,0 +1,1 @@
+function hideblessedmsg() { $("#page_blessed").hide() }
